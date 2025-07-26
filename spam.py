@@ -1,3 +1,9 @@
+"""
+    Created by @code_its_me
+    License: MIT
+"""
+
+
 from pyrogram import Client, filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
